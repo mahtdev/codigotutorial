@@ -9,3 +9,6 @@ C:\Users\afgarcia\documents\visual studio 2010\Projects\formaparatutorial\formap
 C:\Users\afgarcia\documents\visual studio 2010\Projects\formaparatutorial\formaparatutorial\obj\x86\Debug\formaparatutorial.exe
 C:\Users\afgarcia\documents\visual studio 2010\Projects\formaparatutorial\formaparatutorial\obj\x86\Debug\formaparatutorial.xml
 C:\Users\afgarcia\documents\visual studio 2010\Projects\formaparatutorial\formaparatutorial\obj\x86\Debug\formaparatutorial.pdb
+M:\Github\codigotutorial\formaparatutorial\formaparatutorial\obj\x86\Debug\formaparatutorial.exe
+M:\Github\codigotutorial\formaparatutorial\formaparatutorial\obj\x86\Debug\formaparatutorial.xml
+M:\Github\codigotutorial\formaparatutorial\formaparatutorial\obj\x86\Debug\formaparatutorial.pdb
